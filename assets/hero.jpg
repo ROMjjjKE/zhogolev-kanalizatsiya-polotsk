@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Канализация под ключ в Полоцке — ИП Жоголев Павел: монтаж, септики, алмазное бурение, УНП 392006225</title>
+<meta name="description" content="Монтаж систем канализации под ключ в Полоцке: подбор решения, материалы, доставка, земляные работы, септик и трубопровод. Алмазное бурение фундамента без трещин. Фиксированная цена. ИП Жоголев Павел Юрьевич, +375 33 629-53-98">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Onest:wght@300;400;500;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--acc:#46A082;--accd:#2E7A62;--bg:#FFFFFF;--ink:#111827;--mut:#5F6B76;--line:#E3E8EB;--tint:#EDF4F1;--dark:#0F1519}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:'Onest',system-ui,sans-serif;background:var(--bg);color:var(--ink);overflow-x:hidden;font-weight:400;font-size:16px}
+a{color:inherit;text-decoration:none}
+img{max-width:100%;display:block}
+.wrap{max-width:1160px;margin:0 auto;padding:0 24px}
+header{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.94);border-bottom:1px solid var(--line)}
+.hrow{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:14px 0}
+.brand{display:flex;flex-direction:column;line-height:1.15}
+.brand b{font-weight:800;font-size:17px;letter-spacing:-.01em}
+.brand b i{font-style:normal;color:var(--acc)}
+.brand small{font-size:11px;color:var(--mut);font-weight:500}
+nav.main{display:flex;gap:4px}
+nav.main a{font-size:14px;font-weight:500;padding:8px 12px;border-radius:6px}
+nav.main a:hover{background:var(--tint)}
+.tel{font-weight:800;font-size:15px;color:var(--accd);white-space:nowrap}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;font-weight:600;font-size:14.5px;padding:12px 20px;border-radius:6px;transition:.2s;cursor:pointer;border:none;font-family:inherit}
+.btn-acc{background:var(--acc);color:#fff}
+.btn-acc:hover{background:var(--accd)}
+.btn-out{background:transparent;border:1.5px solid var(--ink);color:var(--ink)}
+.btn-out:hover{background:var(--ink);color:#fff}
+.hero{display:grid;grid-template-columns:1fr 1fr;min-height:92vh}
+.hleft{padding:72px 56px;display:flex;flex-direction:column;justify-content:center;gap:20px}
+.kick{font-size:12px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:var(--accd)}
+h1{font-weight:800;font-size:clamp(30px,4vw,52px);line-height:1.08;letter-spacing:-.02em}
+h1 em{font-style:normal;color:var(--acc)}
+.hsub{font-size:17px;line-height:1.6;color:var(--mut);max-width:480px}
+.hbtns{display:flex;gap:12px;flex-wrap:wrap}
+.hnote{font-size:12.5px;color:var(--mut)}
+.hright{position:relative;background:var(--dark)}
+.hright img{width:100%;height:100%;object-fit:cover;opacity:.94}
+.hcap{position:absolute;left:20px;bottom:16px;right:20px;font-size:11.5px;color:#D9E4E0;background:rgba(15,21,25,.72);padding:10px 12px;border-radius:6px}
+section.blk{padding:84px 0}
+.alt{background:#F7FAF9}
+h2{font-weight:800;font-size:clamp(24px,3vw,38px);letter-spacing:-.02em;line-height:1.15;margin-bottom:14px}
+.lead{font-size:16px;color:var(--mut);line-height:1.6;max-width:640px}
+.drill{display:grid;grid-template-columns:1fr 380px;border:1px solid var(--line);border-radius:14px;overflow:hidden;margin-top:36px}
+.dscene{background:#F2F6F4;padding:18px}
+.dscene svg{width:100%;height:auto;display:block}
+.dside{border-left:1px solid var(--line);padding:28px;display:flex;flex-direction:column;gap:14px;background:#fff}
+.ddeep{font-weight:800;font-size:44px;line-height:1;color:var(--accd)}
+.dside small{color:var(--mut);font-size:12.5px;line-height:1.5}
+.dstate{font-size:14px;font-weight:600;padding:10px 12px;background:var(--tint);border-radius:8px;line-height:1.4}
+input[type=range]{-webkit-appearance:none;width:100%;height:36px;background:transparent;cursor:pointer}
+input[type=range]::-webkit-slider-runnable-track{height:3px;background:var(--line);border-radius:2px}
+input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;height:32px;width:32px;border-radius:50%;background:var(--acc);border:4px solid #fff;box-shadow:0 2px 8px rgba(70,160,130,.45);margin-top:-15px}
+.stages{margin-top:36px;border-top:1px solid var(--line)}
+.srow{display:grid;grid-template-columns:110px 260px 1fr;gap:22px;padding:22px 0;border-bottom:1px solid var(--line);align-items:baseline}
+.srow .n{font-weight:800;font-size:15px;color:var(--acc)}
+.srow h3{font-weight:800;font-size:19px;letter-spacing:-.01em}
+.srow p{font-size:14.5px;color:var(--mut);line-height:1.6}
+.g4{display:grid;grid-template-columns:1fr 1fr;border-left:1px solid var(--line);border-top:1px solid var(--line);margin-top:36px}
+.g4>div{border-right:1px solid var(--line);border-bottom:1px solid var(--line);padding:28px}
+.g4 h3{font-weight:800;font-size:18px;margin-bottom:8px}
+.g4 p{font-size:14px;color:var(--mut);line-height:1.6}
+.g4 .b{color:var(--accd);font-weight:600;font-size:13px}
+.plates{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:36px}
+.plate{border:1px solid var(--line);border-left:3px solid var(--acc);border-radius:10px;padding:22px;background:#fff}
+.plate b{display:block;font-weight:800;font-size:16.5px;margin-bottom:6px}
+.plate span{font-size:14px;color:var(--mut);line-height:1.55}
+.faq details{border-bottom:1px solid var(--line)}
+.faq summary{list-style:none;cursor:pointer;padding:20px 0;font-weight:600;font-size:16.5px;display:flex;justify-content:space-between;gap:14px}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary i{font-style:normal;color:var(--acc);font-weight:800;transition:.2s}
+.faq details[open] summary i{transform:rotate(45deg)}
+.faq .fa{padding:0 0 20px;font-size:15px;color:var(--mut);line-height:1.65;max-width:720px}
+.bigcall{background:var(--dark);color:#fff;padding:76px 0}
+.bigcall h2{color:#fff}
+.bigcall .lead{color:#B9C6C1}
+.bform{display:flex;gap:10px;margin-top:26px;max-width:640px;flex-wrap:wrap}
+.bform input{flex:1;min-width:240px;font-size:18px;padding:16px 18px;border-radius:8px;border:1.5px solid #3A4A44;background:#1A2320;color:#fff;font-family:inherit}
+.bform input:focus{outline:none;border-color:var(--acc)}
+.bform button{background:var(--acc);color:#fff;font-weight:800;font-size:16px;padding:16px 28px;border-radius:8px;border:none;cursor:pointer;font-family:inherit}
+.bform button:hover{background:var(--accd)}
+.bok{display:none;margin-top:14px;font-size:14.5px;color:#9FD9C4;font-weight:600}
+footer{padding:30px 0 96px;font-size:13px;color:var(--mut);background:var(--dark)}
+.frow{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;border-top:1px solid #2A3630;padding-top:20px}
+.frow a{color:#9FD9C4}
+#wm{position:fixed;right:14px;bottom:14px;z-index:9990;background:var(--dark);color:#C6D3CE;font-size:11px;padding:8px 12px;border-radius:999px;opacity:.92}
+.wa{position:fixed;left:14px;bottom:14px;z-index:9990;display:flex;align-items:center;gap:8px;background:#25D366;color:#fff;font-weight:700;font-size:13.5px;padding:11px 16px;border-radius:999px}
+.reveal{opacity:0;transform:translateY(16px)}
+body.js .reveal{transition:opacity .6s ease,transform .6s ease}
+body.js .reveal.in{opacity:1;transform:none}
+@media(max-width:920px){.hero{grid-template-columns:1fr;min-height:0}.hleft{padding:48px 24px}.hright{min-height:340px}.drill{grid-template-columns:1fr}.dside{border-left:none;border-top:1px solid var(--line)}
+.srow{grid-template-columns:1fr;gap:6px}.g4{grid-template-columns:1fr}.plates{grid-template-columns:1fr}nav.main{display:none}
+.bform input{min-width:0}}
+</style>
+</head>
+<body id="top">
+<header><div class="wrap hrow">
+<a href="#top" class="brand"><b>Жоголев<i>.</i></b><small>канализация под ключ · Полоцк · ИП</small></a>
+<nav class="main"><a href="#drill">Бурение</a><a href="#complex">Под ключ</a><a href="#adv">Преимущества</a><a href="#faq">Вопросы</a></nav>
+<div style="display:flex;gap:10px;align-items:center">
+<a href="tel:+375336295398" class="tel">+375 33 629-53-98</a>
+<a href="tel:+375336295398" class="btn btn-acc">Вызвать специалиста</a>
+</div>
+</div></header>
+<main>
+<section class="hero">
+<div class="hleft">
+<div class="kick">Монтаж систем канализации под ключ · Полоцк</div>
+<h1>Канализация <em>под ключ</em>: от участка до работающей системы</h1>
+<p class="hsub">Полный комплекс: подбор решения, материалы без лишних наценок, земляные работы, септик, трубопровод — и алмазное бурение фундамента без трещин. Фиксированная цена и прозрачные этапы оплаты.</p>
+<div class="hbtns"><a href="tel:+375336295398" class="btn btn-acc">+375 33 629-53-98</a><a href="#complex" class="btn btn-out">Что входит в работу</a></div>
+<p class="hnote">ИП Жоголев Павел Юрьевич · УНП 392006225 · консультация на участке</p>
+</div>
+<div class="hright">
+<img src="assets/hero.jpg" alt="Монтаж септика и трубопровода на участке">
+<div class="hcap">Иллюстративное изображение, сгенерировано для сайта. На вашем участке: котлован, уклоны труб, септик — по проекту.</div>
+</div>
+</section>
+<section class="blk" id="drill">
+<div class="wrap">
+<div class="kick reveal">алмазное бурение</div>
+<h2 class="reveal">Коронка режет и бетон, и арматуру — потяните ползунок</h2>
+<p class="lead reveal">Проходка фундамента для ввода канализации: без ударных нагрузок, трещин и ослабления конструкции. Диаметр и угол — под вашу задачу.</p>
+<div class="drill reveal">
+<div class="dscene">
+<svg id="dsvg" viewBox="0 0 720 480" fill="none">
+<rect width="720" height="480" fill="#F2F6F4"/>
+<text x="24" y="40" fill="#5F6B76" font-size="13" font-family="Onest" font-weight="600">ФУНДАМЕНТ · РАЗРЕЗ · БЕТОН + АРМАТУРА</text>
+<rect x="140" y="80" width="440" height="360" fill="#DDE5E2" stroke="#B9C9C2" stroke-width="2"/>
+<rect id="hole" x="336" y="80" width="48" height="0" fill="#0F1519"/>
+<g id="bars">
+<rect x="150" y="212" width="420" height="10" fill="#9AAABF" opacity=".8"/>
+<rect x="150" y="332" width="420" height="10" fill="#9AAABF" opacity=".8"/>
+</g>
+<g id="crown">
+<rect x="326" y="34" width="68" height="52" fill="#0F1519" rx="4"/>
+<rect x="338" y="86" width="44" height="26" fill="#2E7A62"/>
+<rect x="344" y="112" width="32" height="14" fill="#46A082"/>
+<path id="spark" d="M360 128 l0 6" stroke="#46A082" stroke-width="2" opacity="0"/>
+</g>
+<g id="arrows" opacity="0">
+<path d="M300 60 h-40 M300 60 l14 -10 M300 60 l14 10" stroke="#2E7A62" stroke-width="2.5" fill="none"/>
+</g>
+<text id="mm" x="396" y="70" fill="#111827" font-size="26" font-weight="800" font-family="Onest">0 мм</text>
+<text x="396" y="92" fill="#5F6B76" font-size="12" font-family="Onest">ГЛУБИНА ПРОХОДКИ</text>
+</svg>
+</div>
+<div class="dside">
+<div><div class="ddeep" id="ddeep">0 мм</div><small>глубина бурения в фундаменте</small></div>
+<input type="range" id="dslider" min="0" max="360" value="0" step="4" aria-label="Глубина бурения">
+<div class="dstate" id="dstate">Коронка на старте. Алмазные сегменты охлаждаются водой — пыли и ударов нет.</div>
+<small id="dnote">Тяните ползунок: коронка проходит бетон 440 мм и режет арматуру без трещин в конструкции.</small>
+</div>
+</div>
+</div>
+</section>
+<section class="blk alt" id="complex">
+<div class="wrap">
+<div class="kick reveal">канализация под ключ</div>
+<h2 class="reveal">Пять этапов — вы получаете готовую систему</h2>
+<div class="stages reveal">
+<div class="srow"><span class="n">Этап 01</span><h3>Консультация и подбор</h3><p>Специалист приедет на участок, оценит условия и порекомендует оптимальный вариант системы — под ваш дом и грунт.</p></div>
+<div class="srow"><span class="n">Этап 02</span><h3>Закупка материалов</h3><p>Трубы, фитинги, септик — качественные комплектующие по оптовым ценам, без лишних наценок.</p></div>
+<div class="srow"><span class="n">Этап 03</span><h3>Доставка на объект</h3><p>Организуем доставку всего необходимого, включая спецтехнику, если она нужна для монтажа.</p></div>
+<div class="srow"><span class="n">Этап 04</span><h3>Земляные работы</h3><p>Котлован под септик и траншеи под трубы — с соблюдением нужных уклонов и глубины: система работает самотёком, как задумано.</p></div>
+<div class="srow"><span class="n">Этап 05</span><h3>Монтаж и герметизация</h3><p>Установка септика или станции, прокладка трубопровода от дома до очистного сооружения, все соединения и герметизация. Сдаём готовую систему.</p></div>
+</div>
+</div>
+</section>
+<section class="blk" id="drill-what">
+<div class="wrap">
+<div class="kick reveal">бурение · что делаем</div>
+<h2 class="reveal">Отверстия в фундаменте — без повреждения конструкции</h2>
+<div class="g4 reveal">
+<div><h3>Ввод коммуникаций</h3><p>Бурим отверстия под ввод канализации, водопровода, дренажа — точно по проекту, под нужным диаметром.</p><span class="b">канализация · водопровод · дренаж</span></div>
+<div><h3>Продухи для подполья</h3><p>Делаем продухи (отдушины) для вентиляции подпольного пространства — фундамент остаётся сухим.</p><span class="b">вентиляция подполья</span></div>
+<div><h3>Угол и труднодоступность</h3><p>Выполняем бурение под углом и в труднодоступных местах — там, где обычный инструмент не подойдёт.</p><span class="b">под углом · в стеснённых условиях</span></div>
+<div><h3>Любая армированность</h3><p>Работаем с бетоном любой армированности: алмазная коронка режет и бетон, и арматуру.</p><span class="b">бетон + арматура одним проходом</span></div>
+</div>
+</div>
+</section>
+<section class="blk alt" id="adv">
+<div class="wrap">
+<div class="kick reveal">преимущества</div>
+<h2 class="reveal">Почему с нами спокойно</h2>
+<div class="plates reveal">
+<div class="plate"><b>Оборудование и материалы</b><span>Проверенное оборудование и сертифицированные материалы — никаких «собрал из того, что было».</span></div>
+<div class="plate"><b>Бережно к участку</b><span>Минимизируем повреждения ландшафта: заезд, земляные работы и обратная засыпка — аккуратно.</span></div>
+<div class="plate"><b>Фиксированная цена</b><span>Цена фиксируется до начала работ, этапы оплаты прозрачны — без сюрпризов по ходу дела.</span></div>
+</div>
+</div>
+</section>
+<section class="blk" id="faq">
+<div class="wrap">
+<div class="kick reveal">вопросы</div>
+<h2 class="reveal">Что спрашивают перед стартом</h2>
+<div class="faq reveal">
+<details><summary>Сколько стоит канализация под ключ?<i>+</i></summary><div class="fa">Цена договорная и зависит от типа септика, объёма земляных работ и удалённости. После осмотра участка называем фиксированную стоимость — она не меняется по ходу работ, этапы оплаты прозрачны.</div></details>
+<details><summary>Работаете только в Полоцке?<i>+</i></summary><div class="fa">База — Полоцк; по объектам в районе и рядом — уточняйте по телефону +375 33 629-53-98, консультация на участке бесплатная по договорённости.</div></details>
+<details><summary>А если фундамент армированный — проём возможен?<i>+</i></summary><div class="fa">Да: алмазная коронка режет и бетон, и арматуру. Бурение идёт без ударных нагрузок — без трещин и ослабления несущей способности конструкции.</div></details>
+<details><summary>Кто закупает материалы?<i>+</i></summary><div class="fa">Можем взять на себя: подберём качественные трубы, фитинги и септик по оптовым ценам без лишних наценок и организуем доставку на объект.</div></details>
+</div>
+</div>
+</section>
+<section class="bigcall" id="call">
+<div class="wrap">
+<div class="kick reveal" style="color:#9FD9C4">обсудим ваш участок</div>
+<h2 class="reveal">Сделаем канализацию надёжно и надолго</h2>
+<p class="lead reveal">Оставьте телефон — перезвоню, отвечу на вопросы и договоримся об осмотре участка.</p>
+<form class="bform reveal" id="zform" novalidate>
+<input type="tel" id="ztel" placeholder="+375 __ ___-__-__" aria-label="Телефон">
+<button type="submit">Перезвоните мне</button>
+</form>
+<div class="bok" id="zok">Принято! Перезвоню на этот номер в ближайшее время.</div>
+</div>
+</section>
+</main>
+<footer>
+<div class="wrap frow">
+<span>ИП Жоголев Павел Юрьевич · УНП 392006225 · Полоцк · Макет: SiteFast.by</span>
+<a href="tel:+375336295398">+375 33 629-53-98</a>
+</div>
+</footer>
+<a class="wa" href="https://wa.me/375336295398" target="_blank" rel="noopener" aria-label="WhatsApp"><svg width="18" height="18" viewBox="0 0 24 24" fill="#fff"><path d="M12 2a10 10 0 00-8.6 15.1L2 22l5-1.3A10 10 0 1012 2zm5.4 14.1c-.2.7-1.3 1.3-1.8 1.3-.5.1-1.1.1-1.8-.1a13 13 0 01-4.2-2.6 11 11 0 01-2.3-3.5c-.2-.6-.3-1.2-.1-1.7.2-.5.9-1.2 1.4-1.2.3 0 .6 0 .8.6l.7 1.6c.1.2 0 .5-.1.7l-.4.6c-.1.2-.2.3 0 .6.5.9 1.1 1.6 2 2.2.6.5 1.1.8 1.6 1 .3.1.5 0 .6-.1l.7-.8c.2-.2.4-.2.6-.1l1.6.8c.5.2.4.5.4.7z"/></svg>WhatsApp</a>
+<div id="wm">Макет: SiteFast.by</div>
+<script>
+(function(){
+document.body.classList.add('js');
+/* reveal-поллинг */
+var done=false;
+function scan(){
+  if(done)return;
+  var els=document.querySelectorAll('.reveal:not(.in)');
+  var vh=window.innerHeight||800;
+  for(var i=0;i<els.length;i++){
+    var r=els[i].getBoundingClientRect();
+    if(r.top<vh-40&&r.bottom>0)els[i].classList.add('in');
+  }
+  if(!els.length)done=true;
+}
+setInterval(scan,400);scan();
+/* === M4: драг алмазного бурения === */
+var H=360; /* слайдер 0..360 = глубина мм *1 (бетон 360мм) */
+var hole=document.getElementById('hole'),crown=document.getElementById('crown'),
+    mm=document.getElementById('mm'),deep=document.getElementById('ddeep'),
+    st=document.getElementById('dstate'),spark=document.getElementById('spark'),
+    bars=document.querySelectorAll('#bars rect'),sl=document.getElementById('dslider');
+if(sl&&hole){
+  function render(q){
+    q=Math.max(0,Math.min(1,q));
+    var d=q*360;
+    hole.setAttribute('height',Math.max(0,d-40>0?d:0));
+    /* коронка едет вниз до 80+360=440 */
+    var cy=34+q*(360+6);
+    crown.setAttribute('transform','translate(0,'+(cy-34)+')');
+    mm.textContent=Math.round(d)+' мм';
+    deep.textContent=Math.round(d)+' мм';
+    var state,note;
+    if(d<5){state='Коронка на старте. Алмазные сегменты охлаждаются водой — пыли и ударов нет.';note='Тяните ползунок: коронка проходит бетон и режет арматуру без трещин в конструкции.';spark.setAttribute('opacity','0')}
+    else if(d<200){state='Проходка бетона. Без ударных нагрузок — конструкция не получает трещин.';note='Коронка охлаждается водой: резка идёт ровно, без пыли и вибрации.';spark.setAttribute('opacity','1')}
+    else if(d<260){state='Рез арматуры: коронка встретила стержень и режет его тем же проходом.';note='Арматура не «выбивается» — алмазные сегменты проходят её без ослабления фундамента.';spark.setAttribute('opacity','1')}
+    else if(d<355){state='Финальный слой бетона. Отверстие получается с ровными краями.';note='Готовый проём не требует дополнительной обработки под ввод трубы.';spark.setAttribute('opacity','1')}
+    else{state='Сквозной проём готов: ровные края, без трещин, конструкция сохраняет прочность.';note='Так выглядит ввод канализации в фундамент — можно ставить гильзу и трубу.';spark.setAttribute('opacity','0')}
+    st.textContent=state;
+    /* арматура разрезается по проходу */
+    for(var k=0;k<bars.length;k++){
+      var b=bars[k],by=parseFloat(b.getAttribute('y'));
+      var cut=(d>=(by-80+40));
+      b.setAttribute('opacity',cut?'.25':'.8');
+      var b2=document.getElementById('cut'+k);
+      if(!b2&&cut){
+        b2=document.createElementNS('http://www.w3.org/2000/svg','rect');
+        b2.setAttribute('id','cut'+k);b2.setAttribute('x',b.getAttribute('x'));
+        b2.setAttribute('y',by);b2.setAttribute('width',b.getAttribute('width'));
+        b2.setAttribute('height','10');b2.setAttribute('fill','#DDE5E2');
+        b.parentNode.insertBefore(b2,b.nextSibling);
+      }
+    }
+  }
+  sl.addEventListener('input',function(){render(sl.value/H)});
+  /* автопрогон при попадании в кадр */
+  var seen=false;
+  setInterval(function(){
+    var r=document.getElementById('dsvg').getBoundingClientRect();
+    if(!seen&&r.top<(window.innerHeight||800)&&r.bottom>0){
+      seen=true;
+      var t0=Date.now();
+      var iv=setInterval(function(){
+        var q=(Date.now()-t0)/3200;
+        if(q>=1){render(1);sl.value=H;clearInterval(iv);return}
+        render(q);sl.value=Math.round(q*H);
+      },40);
+    }
+  },400);
+  render(0);
+  window.__wow={render:function(q){render(q);if(sl)sl.value=Math.round(Math.max(0,Math.min(1,q))*H);return true}};
+}
+/* форма: крупный телефон в футере */
+var f=document.getElementById('zform');
+if(f)f.addEventListener('submit',function(e){
+  e.preventDefault();
+  var t=document.getElementById('ztel');
+  if(!t.value.trim()||t.value.replace(/\D/g,'').length<9){t.style.borderColor='#C73A28';return}
+  t.style.borderColor='';
+  document.getElementById('zok').style.display='block';
+  f.reset();
+});
+})();
+</script>
+</body>
+</html>
